@@ -1,6 +1,6 @@
-# 2018-01-09 增加如下区块链白皮书
+# 2018-01-09 增加区块链白皮书
 ```
-ARC基石区块白皮书预览.pdf
+ARC基石区块白皮书预览 .pdf
 AcuteAngleCloud 12.14_z_zh.pdf
 ArcBlock.pdf
 BancorProtocolWhitepaperPublicDraftv0.7.pdf
@@ -11,6 +11,7 @@ Electronic PK Chain白皮书.pdf
 FairGame_CN（老虎机）.pdf
 FortKnoxster Whitepaper CN.pdf
 Fortuna 方图 分布式风险对冲区块链 白皮书.pdf
+GVE-Whitepaper-cn.pdf
 GVEco白皮书v4.0.1(1).pdf
 GoNetwork_WhitePaper.pdf
 Gonetwork白皮书【中文简要】 2.pdf
@@ -21,7 +22,11 @@ Jex_WhitePaper.pdf
 MATRIX白皮书.pdf
 MOB.pdf
 OBEN-PAI白皮书.pdf
+OTCBTC 白皮书 2017-12-09 v1.3 0733 CN.pdf
 OmiseGO-CNwhitepaper.pdf
+Ownership-WhitePaper 中文版.pdf
+QUBE白皮书---区块链时代的彭博（Bloomberg).pdf
+README.md
 RRCoin-基于区块链的开放社交网络平台.pdf
 Rootstock (RSK)项目资料.pdf
 SHE项目白皮书V1.0.8.pdf
