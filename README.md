@@ -1,4 +1,4 @@
-# 2018-01-10 18:07:55 增加区块链白皮书
+# 2018-01-10 18:13:04 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -64,7 +64,7 @@ Gonetwork白皮书【中文简要】 2.pdf
 HCCWhitePaperv1.2.pdf
 HOQU分布式营销平台的简介.pdf
 HPB 白皮书.pdf
-HYPER PLAY游戏生态平台(1).pdf
+HYPER PLAY游戏生态平台.pdf
 Hcash白皮书.pdf
 Hcash白皮书中文版0.8.1.pdf
 Hyperledger白皮书.pdf
@@ -138,7 +138,7 @@ bee_whitepaper_v3.pdf
 bitcoin（英文版）》.pdf
 biwei.pdf
 cypherium_whitepaper.pdf
-ebookchain.pdf
+ebookchain白皮书.pdf
 fabcoin发链.pdf
 iCubeChain-WhitePaper-P-E-V0.3.5-en.pdf
 ipcchain_white_paper.pdf
@@ -184,7 +184,7 @@ zh_whitepaper.pdf
 大数据币白皮书中文最新版 (1).pdf
 天算Delphy_Whitepaper_CH.pdf
 太空链白皮书_CN_0904.pdf
-孔明屋(3).pdf
+孔明屋.pdf
 小蚁白皮书 1.0.pdf
 尚亚币白皮书.pdf
 币乎白皮书whitePaper.pdf
@@ -195,6 +195,7 @@ zh_whitepaper.pdf
 数字货币的互联网架构1／3.pdf
 星云链NebulasTechnicalWhitepaperZh.pdf
 星链白皮书.pdf
+晋缘值说明.pdf
 智投币(IIC)白皮书20180107.pdf
 智投鏈IIC白皮書.pdf
 智能合约的理念.pdf
