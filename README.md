@@ -1,4 +1,4 @@
-# 2018-01-10 14:58:52 增加区块链白皮书
+# 2018-01-10 15:25:12 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -77,6 +77,7 @@ Mixin白皮书.pdf
 Molecular Future_BP-CN.pdf
 OBEN-PAI白皮书.pdf
 OTCBTC 白皮书 2017-12-09 v1.3 0733 CN.pdf
+OceanChain-白皮书V0.2.4.pdf
 OmiseGO-CNwhitepaper.pdf
 OmiseGo众筹中文白皮书.pdf
 Ownership-WhitePaper 中文版.pdf
@@ -88,6 +89,7 @@ SHE项目白皮书V1.0.8.pdf
 STB Chain wp.pdf
 ShareChainWhitePaper.pdf
 ShareX一页纸介绍.pdf
+Sharex白皮书V9.2.pdf
 SmartMeshWhitePaperCN.pdf
 Status_whitepaper-cn.pdf
 Substratum_Chinese_Whitepaper.pdf
@@ -182,6 +184,7 @@ zh_whitepaper.pdf
 路印协议.pdf
 量化链.pdf
 量子链白皮书：价值传输协议及去中心化应用平台 .pdf
+链行年度区块链行业前瞻报告：价格波动背后的比特币区块链发展趋势 20171012.pdf
 香港分布式账本技术白皮书中文版.pdf
 （中文）Trinity Pitch Deck.pdf
 ```
