@@ -1,4 +1,4 @@
-# 2018-01-10 17:43:09 增加区块链白皮书
+# 2018-01-10 18:07:55 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -36,7 +36,7 @@ CYBEREITS_White_Paper_v1.2.0.pdf
 CYBEREITS白皮书-V1.0（分享版）.pdf
 Call Chain白皮書_0108檔案縮小版.pdf
 Cybermiles白皮书.pdf
-DAO_slock_白皮书中文版.pdf*
+DAO_slock_白皮书中文版.pdf
 DECENT 白皮书-去中心化数据内容发布平台.pdf
 DFINITY自进化无限云0721.pdf
 DSP英国第一个分布式社交-技术白皮书.pdf
@@ -44,7 +44,7 @@ DagCoin白皮书：一种没有区块的加密数字货币.pdf
 DeepBrainChainWhitepaper.pdf
 Dictatorships-Democracy-and-Blockchain.pdf
 Digix 白皮书：密码学资产中的黄金标准（中文版）.pdf
-EOS白皮书-中文版.pdf*
+EOS白皮书-中文版.pdf
 EVERmaket whitepaper_CN.pdf
 EchoLink_github.pdf
 Electronic PK Chain白皮书.pdf
@@ -86,9 +86,9 @@ Kcash_White_Paper.pdf
 MATRIX白皮书.pdf
 MOB.pdf
 MediShares.Whitepaper.CN.pdf
-Mergecoin Technical Whitepaper 中文版.pdf*
-Mergecoin Technical Whitepaper 英文版.pdf*
-Metaverse-white-paper-v2.1-CN.pdf*
+Mergecoin Technical Whitepaper 中文版.pdf
+Mergecoin Technical Whitepaper 英文版.pdf
+Metaverse-white-paper-v2.1-CN.pdf
 Mixin白皮书.pdf
 Molecular Future_BP-CN.pdf
 OBEN-PAI-whitepaper-cn.pdf
@@ -151,17 +151,17 @@ orchid whitepaper.pdf
 otcbtc 白皮书 v0.2.1.pdf
 primas-zh-1.2.1(白皮书).pdf
 qbao_fund_zh-CN.pdf
-status.pdf*
+status.pdf
 tenx_whitepaper_final.pdf
 whitepaper-cn.pdf
 whitepaper.pdf
-zendao.pdf*
+zendao.pdf
 zeppelin_os_whitepaper.pdf
 zh_whitepaper.pdf
 ælf_whitepaper_v1.2.pdf
 《香港金融管理局区块链白皮书（英文）》.pdf
-【波场Tron】 Whitepaper-0822-V17.pdf*
-万维链技术白皮书Wanchain-Yellowpaper-CH-version.pdf*
+【波场Tron】 Whitepaper-0822-V17.pdf
+万维链技术白皮书Wanchain-Yellowpaper-CH-version.pdf
 中国区块链技术和应用发展白皮书.pdf
 井通区块链白皮书01（目录版）.pdf
 以太坊ETH挖矿详细教程.pdf
@@ -180,7 +180,7 @@ zh_whitepaper.pdf
 去中心化能源管理与交易系统.pdf
 合规区块链指引探索区块链监管之路.pdf
 墨链inkchain_ico_manual.pdf
-墨链inkchain_whitepaper.pdf*
+墨链inkchain_whitepaper.pdf
 大数据币白皮书中文最新版 (1).pdf
 天算Delphy_Whitepaper_CH.pdf
 太空链白皮书_CN_0904.pdf
@@ -200,7 +200,7 @@ zh_whitepaper.pdf
 智能合约的理念.pdf
 本体白皮书概览.pdf
 欧洲央行分布式账本技术报告.pdf
-比原链BytomWhitePaperV1.0.pdf*
+比原链BytomWhitePaperV1.0.pdf
 比特元区块链项目白皮书.pdf
 比特币白皮书：.pdf
 比特币闪电网络白皮书：可扩展的 off-chain 即时支付（中文）.pdf
@@ -210,7 +210,7 @@ zh_whitepaper.pdf
 瑞资链技术白皮书.pdf
 瑞银集团UBS白皮书：创建信任引擎-区块链将如何改造金融和世界.pdf
 甲骨文Bluzelle-White-Paper-v-1.2-Simplified-Chinese.pdf
-社交链白皮书(官方版 ).pdf*
+社交链白皮书(官方版 ).pdf
 第三期：唯链.pdf
 精灵链生态白皮书.pdf
 维基链白皮书.pdf
