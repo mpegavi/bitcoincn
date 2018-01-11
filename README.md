@@ -1,4 +1,4 @@
-# 2018-01-10 18:13:04 增加区块链白皮书
+# 2018-01-11 10:40:15 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -91,6 +91,7 @@ Mergecoin Technical Whitepaper 英文版.pdf
 Metaverse-white-paper-v2.1-CN.pdf
 Mixin白皮书.pdf
 Molecular Future_BP-CN.pdf
+NebulasWhitepaperZh.pdf
 OBEN-PAI-whitepaper-cn.pdf
 OBEN-PAI白皮书.pdf
 ONEROOT-whitepaperCH.pdf
@@ -169,6 +170,8 @@ zh_whitepaper.pdf
 以太坊白皮书最新版.pdf
 以太坊黄皮书.pdf
 信用链白皮书.pdf
+公信宝区块链产品白皮书-v1.3.2.pdf
+六域链.pptx
 兰花协议白皮书.pdf
 分子未来Molecular Future_BP-CN.pdf
 初链白皮书-以数字广告为起点的下一代公链.pdf
@@ -192,6 +195,7 @@ zh_whitepaper.pdf
 布比区块链介绍-王璟.pptx
 意大利联合信贷银行的区块链白皮书.pdf
 意大利联合信贷银行的区块链白皮书（翻译版）.pdf
+政务链.pdf
 数字货币的互联网架构1／3.pdf
 星云链NebulasTechnicalWhitepaperZh.pdf
 星链白皮书.pdf
