@@ -1,4 +1,4 @@
-# 2018-01-11 10:40:15 增加区块链白皮书
+# 2018-01-11 14:47:46 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -44,6 +44,7 @@ DagCoin白皮书：一种没有区块的加密数字货币.pdf
 DeepBrainChainWhitepaper.pdf
 Dictatorships-Democracy-and-Blockchain.pdf
 Digix 白皮书：密码学资产中的黄金标准（中文版）.pdf
+EOS正式版技术白皮书.docx
 EOS白皮书-中文版.pdf
 EVERmaket whitepaper_CN.pdf
 EchoLink_github.pdf
@@ -169,6 +170,7 @@ zh_whitepaper.pdf
 以太坊白皮书.pdf
 以太坊白皮书最新版.pdf
 以太坊黄皮书.pdf
+以太坊黄皮书中文版-崔广斌&高天露-翻译(1).pdf
 信用链白皮书.pdf
 公信宝区块链产品白皮书-v1.3.2.pdf
 六域链.pptx
@@ -231,6 +233,7 @@ zh_whitepaper.pdf
 量子链区块链经济白皮书.pdf
 量子链白皮书：价值传输协议及去中心化应用平台 .pdf
 链行年度区块链行业前瞻报告：价格波动背后的比特币区块链发展趋势 20171012.pdf
+零知识证明分享_北京_12.pdf
 香港分布式账本技术白皮书中文版.pdf
 麦奇白皮书中文版.pdf
 （中文）Trinity Pitch Deck.pdf
