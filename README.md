@@ -1,4 +1,4 @@
-# 2018-01-11 15:30:57 增加区块链白皮书
+# 2018-01-13 10:38:11 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -20,11 +20,13 @@ ARC基石区块白皮书预览 .pdf
 AT Network技術白皮書.pdf
 Achain Whitepaper 2.0_CHS.pdf
 Achain_区块链技术白皮书.pdf
+Acute Angle Cloud White paper.pdf
 AcuteAngleCloud 12.14_z_zh.pdf
 Alphacat Whitepaper Chinese 1.3.0v2.pdf
 ArcBlock.pdf
 BAIC物联网价值链项目书.pdf
 BancorProtocolWhitepaperPublicDraftv0.7.pdf
+BasicAttentionTokenWhitePaper中文.pdf
 BitShares 2.0白皮书》点对点的多态数字资产交易系统.pdf
 BitShares Play白皮书（中文版）.pdf
 Bytom_BP_1.0.pdf
@@ -34,6 +36,7 @@ CYBEREITS_White_Paper_v1.2.0.pdf
 CYBEREITS白皮书-V1.0（分享版）.pdf
 Call Chain白皮書_0108檔案縮小版.pdf
 Cybermiles白皮书.pdf
+Cybex_Whitepaper_v0.97.pdf
 DAO_slock_白皮书中文版.pdf
 DECENT 白皮书-去中心化数据内容发布平台.pdf
 DFINITY自进化无限云0721.pdf
@@ -62,8 +65,10 @@ GoNetwork_WhitePaper.pdf
 Gonetwork白皮书【中文简要】.pdf
 HCCWhitePaperv1.2.pdf
 HOQU分布式营销平台的简介.pdf
+HOTchain热度链-全球文体娱乐数字平台白皮书.pdf
 HPB 白皮书.pdf
 HYPER PLAY游戏生态平台.pdf
+HalalChainwhitepaper.pdf
 Hcash白皮书.pdf
 Hcash白皮书中文版0.8.1.pdf
 Hyperledger白皮书.pdf
@@ -81,8 +86,10 @@ Ink_Protocol_Whitepaper_V5_Listia_Inc.pdf
 InsurChain-WhitePaper.pdf
 Iota白皮书：缠结Tangle及有向无图DAG协议.pdf
 Jex_WhitePaper.pdf
+KKCOIN白皮书V3.1.pdf
 Kcash_White_Paper.pdf
 MATRIX白皮书.pdf
+MEX白皮书-180111定稿.pdf
 MOB.pdf
 MediShares.Whitepaper.CN.pdf
 Mergecoin Technical Whitepaper 中文版.pdf
@@ -129,6 +136,7 @@ VerifyUnion_WhitePaper_Chinese.pdf
 White Paper_Aimwise_V3_Chinese (1).pdf
 White Paper_Aimwise_V3_Chinese.pdf
 WhitePaper_qlink.pdf
+Wine Chain白皮书V4.0.pdf
 YOYOW中文白皮书3.0（2017.11.7）.pdf
 YouLive白皮书V1.0.3.pdf
 ZILLA_White_Paper_ch.pdf
@@ -163,6 +171,7 @@ zh_whitepaper.pdf
 【波场Tron】 Whitepaper-0822-V17.pdf
 万维链技术白皮书Wanchain-Yellowpaper-CH-version.pdf
 中国区块链技术和应用发展白皮书.pdf
+乌镇智库：中国区块链产业发展白皮书.pdf
 井通区块链白皮书01（目录版）.pdf
 以太坊ETH挖矿详细教程.pdf
 以太坊白皮书.pdf
@@ -177,10 +186,12 @@ zh_whitepaper.pdf
 初链白皮书-以数字广告为起点的下一代公链.pdf
 区块白皮书1014-印刷.pdf
 区块链.pdf
+区块链平台调研与分析 永安+金联盟 2017.pdf
 区块链深度报告.pdf
 区块链游戏孵化加速器whpCN_15.pdf
 印链白皮书第二版.pdf
 去中心化能源管理与交易系统.pdf
+合规区块链指引  2017-7.pdf
 合规区块链指引探索区块链监管之路.pdf
 墨链inkchain_ico_manual.pdf
 墨链inkchain_whitepaper.pdf
@@ -204,7 +215,9 @@ zh_whitepaper.pdf
 智投币(IIC)白皮书20180107.pdf
 智投鏈IIC白皮書.pdf
 智能合约的理念.pdf
+未来区块链教育板块的老大 学链 白皮书解析.docx
 本体白皮书概览.pdf
+标准链白皮书评估版v1.pdf
 欧洲央行分布式账本技术报告.pdf
 比原链BytomWhitePaperV1.0.pdf
 比特元区块链项目白皮书.pdf
