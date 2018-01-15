@@ -1,4 +1,4 @@
-# 2018-01-13 10:38:11 增加区块链白皮书
+# 2018-01-15 12:32:56 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -14,9 +14,11 @@
 20160410-招商证券-招商证券IT宿命系列报告之一：区块链深度专题，让全世界做你的证人.pdf
 20160410-浙商证券-浙商证券区块链主题研究报告系列之一：区块链，链接万物，信由心生.pdf
 20160411-东兴证券-东兴证券计算机行业周报：区块链带来投资机会，建议长期关注.pdf
+AAA-BP.pdf
 ACT钱包操作说明.pdf
 ADTrue.pdf
 ARC基石区块白皮书预览 .pdf
+ARC白皮书.pdf
 AT Network技術白皮書.pdf
 Achain Whitepaper 2.0_CHS.pdf
 Achain_区块链技术白皮书.pdf
@@ -25,10 +27,12 @@ AcuteAngleCloud 12.14_z_zh.pdf
 Alphacat Whitepaper Chinese 1.3.0v2.pdf
 ArcBlock.pdf
 BAIC物联网价值链项目书.pdf
+BITStation White Paper V1.01.pdf
 BancorProtocolWhitepaperPublicDraftv0.7.pdf
 BasicAttentionTokenWhitePaper中文.pdf
 BitShares 2.0白皮书》点对点的多态数字资产交易系统.pdf
 BitShares Play白皮书（中文版）.pdf
+Blockchain 2.0_CS_2018.1.11.pdf
 Bytom_BP_1.0.pdf
 CHINESECoinDashwhitepaper.pdf
 CYBEREITS_PPT_v1.0.1.pdf
@@ -107,11 +111,15 @@ OmiseGO-CNwhitepaper.pdf
 OmiseGo众筹中文白皮书.pdf
 Ownership-WhitePaper 中文版.pdf
 PAI whitepaper-cn.pdf
+PundiX_WhitePaper_CN_FinalVer1.pdf
+QUBE_White_Paper_A_Bloomberg_for_Blockchain.pdf
+QUBE_White_Paper_A_Bloomberg_for_Blockchain_cn.pdf
 QUBE白皮书---区块链时代的彭博（Bloomberg).pdf
 Qtum Whitepaper 量子链技术白皮书 20170307.pdf
 README.md
 RRCoin-基于区块链的开放社交网络平台.pdf
 Rootstock (RSK)项目资料.pdf
+Ruff 白皮书.pdf
 SHE项目白皮书V1.0.8.pdf
 STB Chain wp.pdf
 ShareChainWhitePaper.pdf
@@ -145,6 +153,7 @@ basecoin_explainer_cn.pdf
 bee_whitepaper_v3.pdf
 bitcoin（英文版）》.pdf
 biwei.pdf
+canonchain-cn.pdf
 cypherium_whitepaper.pdf
 ebookchain白皮书.pdf
 fabcoin发链.pdf
@@ -237,6 +246,7 @@ zh_whitepaper.pdf
 英雄链白皮书.pdf
 贵阳区块链发展与应用主权区块链.pdf
 超星链白皮书.pdf
+超级游戏链 v201801090336.pdf
 超级账本Hyperledger白皮书（中文版）.pdf
 超级账本白皮书中文版Hyperledger_Whitepaper_cn.pdf
 路印_Loopring白皮书.pdf
@@ -247,6 +257,7 @@ zh_whitepaper.pdf
 链行年度区块链行业前瞻报告：价格波动背后的比特币区块链发展趋势 20171012.pdf
 零知识证明分享_北京_12.pdf
 香港分布式账本技术白皮书中文版.pdf
+高盛-区块链：将理论付诸实践-（中文版-88页）.pdf
 麦奇白皮书中文版.pdf
 麦肯锡－区块链，银行业游戏规则的颠覆者－2016年5月.pdf
 （中文）Trinity Pitch Deck.pdf
