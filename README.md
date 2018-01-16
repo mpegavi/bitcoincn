@@ -1,4 +1,4 @@
-# 2018-01-15 18:24:58 增加区块链白皮书
+# 2018-01-16 16:06:09 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -14,6 +14,7 @@
 20160410-招商证券-招商证券IT宿命系列报告之一：区块链深度专题，让全世界做你的证人.pdf
 20160410-浙商证券-浙商证券区块链主题研究报告系列之一：区块链，链接万物，信由心生.pdf
 20160411-东兴证券-东兴证券计算机行业周报：区块链带来投资机会，建议长期关注.pdf
+36Kr-区块链研究报告.pdf
 AAA-BP.pdf
 ACT钱包操作说明.pdf
 ADTrue.pdf
@@ -30,6 +31,7 @@ BAIC物联网价值链项目书.pdf
 BITStation White Paper V1.01.pdf
 BancorProtocolWhitepaperPublicDraftv0.7.pdf
 BasicAttentionTokenWhitePaper中文.pdf
+Bigone白皮书.pdf
 BitShares 2.0白皮书》点对点的多态数字资产交易系统.pdf
 BitShares Play白皮书（中文版）.pdf
 Blockchain 2.0_CS_2018.1.11.pdf
