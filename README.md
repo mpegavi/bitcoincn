@@ -1,4 +1,4 @@
-# 2018-01-16 16:06:09 增加区块链白皮书
+# 2018-01-17 13:27:41 增加区块链白皮书
 ## 白皮书来自于中文版白皮书资料 
 ### QQ群：566486872
 ### 创始人：Allen Liu
@@ -41,6 +41,7 @@ CYBEREITS_PPT_v1.0.1.pdf
 CYBEREITS_White_Paper_v1.2.0.pdf
 CYBEREITS白皮书-V1.0（分享版）.pdf
 Call Chain白皮書_0108檔案縮小版.pdf
+CryptoKitties White Papepurr V3 (LATEST).pdf
 Cybermiles白皮书.pdf
 Cybex_Whitepaper_v0.97.pdf
 DAO_slock_白皮书中文版.pdf
@@ -57,6 +58,7 @@ EVERmaket whitepaper_CN.pdf
 EchoLink_github.pdf
 Electronic PK Chain白皮书.pdf
 FINCHAIN金链白皮书1.0.pdf
+FISHBANK-V1.pdf
 FRD白皮书.pdf
 FairGame_CN（老虎机）.pdf
 FortKnoxster Whitepaper CN.pdf
